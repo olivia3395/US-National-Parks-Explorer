@@ -11,22 +11,6 @@ Wilderness is a sophisticated web application designed to help users discover, e
 - **Immersive Soundscape**: A built-in audio player featuring 10 ambient nature soundscapes to enhance your planning experience.
 - **Favorites System**: Save and easily manage your favorite parks.
 
-
-
-## Audio Setup
-
-To utilize the immersive soundscape feature, ensure the following `.mp3` files are added to the `/public/sounds/` directory:
-- `stream.mp3`
-- `volcano.mp3`
-- `forest.mp3`
-- `ocean.mp3`
-- `rain.mp3`
-- `canyon-echo.mp3`
-- `desert-night.mp3`
-- `bird-song.mp3`
-- `glacier-crack.mp3`
-- `thunderstorm.mp3`
-
 ## Credits
 
 - **Author**: Yuyao Wang
