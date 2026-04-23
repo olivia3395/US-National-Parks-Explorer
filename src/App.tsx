@@ -76,6 +76,10 @@ export default function App() {
               <span className="text-[10px] uppercase opacity-60">Grand Parks</span>
             </div>
             <p className="text-xs opacity-70 leading-relaxed">Protected since 1916<br/>National Park Service</p>
+            <div className="mt-8 pt-6 border-t border-brand-bark/10 text-[10px] opacity-50">
+                <p>&copy; 2026 Yuyao Wang</p>
+                <a href="mailto:yuyaow@bu.edu" className="hover:underline">yuyaow@bu.edu</a>
+            </div>
         </div>
       </aside>
 
